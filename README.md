@@ -3,10 +3,10 @@ Hi there! 👋 I'm Sachin Rathod, a Python Web Developer passionate about crafti
 I specialize in building modern, responsive, and user-friendly solutions using Django and Bootstrap.
 
 Skills 🚀
-Backend Development 🐍: Django, Flask, REST APIs
-Frontend 🎨: HTML5, CSS3, JavaScript, Bootstrap
-Databases 🗄️: MySQL, SQLite
-Version Control 🛠️: Git, GitHub
+   - Backend Development 🐍: Django, Flask, REST APIs
+   - Frontend 🎨: HTML5, CSS3, JavaScript, Bootstrap
+   - Databases 🗄️: MySQL, SQLite
+   - Version Control 🛠️: Git, GitHub
 
 Fun Facts 💡
 🌍 Lifelong learner passionate about open-source.
