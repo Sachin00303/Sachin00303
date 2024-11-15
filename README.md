@@ -3,7 +3,7 @@
        I specialize in building modern, responsive, and user-friendly solutions using Django and Bootstrap.
 
 Skills 🚀
-   - Backend Development 🐍: Django, Flask, REST APIs
+   - Backend Development 🐍: Python , Django, REST APIs
    - Frontend 🎨: HTML5, CSS3, JavaScript, Bootstrap
    - Databases 🗄️: MySQL, SQLite
    - Version Control 🛠️: Git, GitHub
@@ -11,6 +11,7 @@ Skills 🚀
 Fun Facts 💡
    - 🌍 Lifelong learner passionate about open-source.
    - ⚡ Always exploring new web development trends.
+Languge
 <!--
 **Sachin00303/Sachin00303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
