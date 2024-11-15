@@ -1,4 +1,4 @@
-👋 Hello, World! I’m SAchin Rathod
+👋 Hello, World! I’m Sachin Rathod
 <br>🌟 Passionate Python Developer dedicated to building efficient, scalable, and user-friendly web applications.I enjoy solving complex problems with clean and elegant code.
 
 Skills 🚀
