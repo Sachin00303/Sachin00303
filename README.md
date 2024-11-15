@@ -1,6 +1,6 @@
  About Me 🌟
-    - Hi there! 👋 I'm Sachin Rathod, a Python Web Developer passionate about crafting robust and scalable web applications.
-I specialize in building modern, responsive, and user-friendly solutions using Django and Bootstrap.
+     - Hi there! 👋 I'm Sachin Rathod, a Python Web Developer passionate about crafting robust and scalable web applications.
+       I specialize in building modern, responsive, and user-friendly solutions using Django and Bootstrap.
 
 Skills 🚀
    - Backend Development 🐍: Django, Flask, REST APIs
