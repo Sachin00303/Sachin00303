@@ -1,5 +1,5 @@
-About Me 🌟
-Hi there! 👋 I'm Sachin Rathod, a Python Web Developer passionate about crafting robust and scalable web applications.
+ About Me 🌟
+    - Hi there! 👋 I'm Sachin Rathod, a Python Web Developer passionate about crafting robust and scalable web applications.
 I specialize in building modern, responsive, and user-friendly solutions using Django and Bootstrap.
 
 Skills 🚀
@@ -9,8 +9,8 @@ Skills 🚀
    - Version Control 🛠️: Git, GitHub
 
 Fun Facts 💡
-🌍 Lifelong learner passionate about open-source.
-⚡ Always exploring new web development trends.
+   - 🌍 Lifelong learner passionate about open-source.
+   - ⚡ Always exploring new web development trends.
 <!--
 **Sachin00303/Sachin00303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
