@@ -1,6 +1,5 @@
 👋 Hello, World! I’m SAchin Rathod
-🌟 Passionate Python Developer dedicated to building efficient, scalable, and user-friendly web applications.
-    <br/>I enjoy solving complex problems with clean and elegant code.
+🌟 Passionate Python Developer dedicated to building efficient, scalable, and user-friendly web applications.I enjoy solving complex problems with clean and elegant code.
 
 Skills 🚀
    - Backend Development 🐍: Python , Django, REST APIs
